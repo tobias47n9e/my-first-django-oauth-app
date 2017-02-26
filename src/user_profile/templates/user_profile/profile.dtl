@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+  <h1>Profile</h1>
+  {{ user }}
+</body>
+</html>
